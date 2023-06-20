@@ -1,17 +1,33 @@
 import java.util.*;
-public class constructor {
+public class constructor{
     public static void main(String[] args) {
-        Student s1 = new Student("Aditya");
+        Employee ac =new Employee();
+        ac.setName("Aditya");
+        ac.setId(1);
+        System.out.println(ac.getName()+ac.getId());
     }
-class Student{
-    String name;
-    int roll;
-
-
-    Student(String name){
-        this.name=name;
-    }
-
-}
     
+    
+}  
+
+
+class Employee{
+    private int id;
+    private String name;
+    public String getName(){
+        return name;
+    }
+    public int getId(){
+        return id;
+    }
+    public void setName(String n){
+        this.name=n;
+    }
+    public void setId(int a){
+        this.id=a;
+    }
 }
+
+
+
+
