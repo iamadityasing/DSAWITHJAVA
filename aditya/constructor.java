@@ -2,9 +2,9 @@ import java.util.*;
 public class constructor{
     public static void main(String[] args) {
         Employee ac =new Employee();
-        ac.setName("Aditya");
-        ac.setId(1);
-        System.out.println(ac.getName()+ac.getId()+"helloworldcocomic");
+        //ac.setName("Aditya");
+        //ac.setId(1);
+        System.out.println(ac.getName()+"\n"+ac.getId());
     }
     
     
@@ -14,6 +14,11 @@ public class constructor{
 class Employee{
     private int id;
     private String name;
+    //Constructors
+    public Employee(){
+        id=45;
+        name="Your name here"; 
+    }
     public String getName(){
         return name;
     }
