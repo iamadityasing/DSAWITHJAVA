@@ -1,0 +1,112 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "First",
+            "request": "launch",
+            "mainClass": "First",
+            "projectName": "DSAWITHJAVA_3fd97c64"
+        },
+        {
+            "type": "java",
+            "name": "OBJECToriented",
+            "request": "launch",
+            "mainClass": "OBJECToriented",
+            "projectName": "DSAWITHJAVA_3fd97c64"
+        },
+        {
+            "type": "java",
+            "name": "Second",
+            "request": "launch",
+            "mainClass": "Second",
+            "projectName": "DSAWITHJAVA_3fd97c64"
+        },
+        {
+            "type": "java",
+            "name": "array",
+            "request": "launch",
+            "mainClass": "array",
+            "projectName": "DSAWITHJAVA_3fd97c64"
+        },
+        {
+            "type": "java",
+            "name": "constructor(function Object() { [native code] }1)",
+            "request": "launch",
+            "mainClass": "constructor",
+            "projectName": "DSAWITHJAVA_3fd97c64"
+        },
+        {
+            "type": "java",
+            "name": "array(1)",
+            "request": "launch",
+            "mainClass": "dsa.array",
+            "projectName": "DSAWITHJAVA_3fd97c64"
+        },
+        {
+            "type": "java",
+            "name": "billa",
+            "request": "launch",
+            "mainClass": "dsa.billa",
+            "projectName": "DSAWITHJAVA_3fd97c64"
+        },
+        {
+            "type": "java",
+            "name": "calci",
+            "request": "launch",
+            "mainClass": "dsa.calci",
+            "projectName": "DSAWITHJAVA_3fd97c64"
+        },
+        {
+            "type": "java",
+            "name": "functions",
+            "request": "launch",
+            "mainClass": "dsa.functions",
+            "projectName": "DSAWITHJAVA_3fd97c64"
+        },
+        {
+            "type": "java",
+            "name": "maxofarrqay",
+            "request": "launch",
+            "mainClass": "dsa.maxofarrqay",
+            "projectName": "DSAWITHJAVA_3fd97c64"
+        },
+        {
+            "type": "java",
+            "name": "prineno",
+            "request": "launch",
+            "mainClass": "dsa.prineno",
+            "projectName": "DSAWITHJAVA_3fd97c64"
+        },
+        {
+            "type": "java",
+            "name": "reverseNum",
+            "request": "launch",
+            "mainClass": "dsa.reverseNum",
+            "projectName": "DSAWITHJAVA_3fd97c64"
+        },
+        {
+            "type": "java",
+            "name": "practice",
+            "request": "launch",
+            "mainClass": "practice",
+            "projectName": "DSAWITHJAVA_3fd97c64"
+        },
+        {
+            "type": "java",
+            "name": "rev",
+            "request": "launch",
+            "mainClass": "rev",
+            "projectName": "DSAWITHJAVA_3fd97c64"
+        }
+    ]
+}
