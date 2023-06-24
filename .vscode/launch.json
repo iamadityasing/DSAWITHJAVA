@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Currency_Converter",
+            "request": "launch",
+            "mainClass": "Currency_Converter",
+            "projectName": "DSAWITHJAVA_3fd97c64"
+        },
+        {
+            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"
