@@ -6,7 +6,7 @@ class First
     {
         
         Scanner sc=new Scanner(System.in);
-        System.out.print("Enter first numbers");
+        System.out.print("Enter first numberss");
         int a=sc.nextInt();
         System.out.print("Enter second number");
         int b=sc.nextInt();
