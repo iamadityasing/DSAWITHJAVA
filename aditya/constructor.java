@@ -19,12 +19,14 @@ class Employee{
         id=45;
         name="Your name here"; 
     }
+    //getters
     public String getName(){
         return name;
     }
     public int getId(){
         return id;
     }
+    //setters
     public void setName(String n){
         this.name=n;
     }
