@@ -2,7 +2,7 @@ import java.util.*;
 public class constructor{
     public static void main(String[] args) {
         Employee ac =new Employee();
-        //ac.setName("Aditya");
+        //ac.setName("AdityaSingh");
         //ac.setId(1);
         System.out.println(ac.getName()+"\n"+ac.getId());
     }
